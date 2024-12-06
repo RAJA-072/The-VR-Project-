@@ -19,12 +19,6 @@ In this immersive module, players must feed a snake its respective prey to ensur
 - Engaging visuals and realistic environments to immerse players in biological concepts.
 - Educational content designed to promote understanding of ecosystems and food chains.
 
-## Getting Started
-To set up and run this VR project, follow the installation instructions in the repository.
-
-## Contributing
-Contributions are welcome! If you'd like to enhance this project, please fork the repository and submit a pull request.
-
 ---
 
 Explore the world of ecosystems and food chains through immersive gameplay!
