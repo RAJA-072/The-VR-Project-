@@ -1,7 +1,6 @@
 # Gamified Education: Food Chain VR Project
-![Screenshot 2024-11-29 210620](https://github.com/user-attachments/assets/07152f24-063b-4b47-866f-934be515381e)
+![image](https://github.com/user-attachments/assets/86b77de2-b132-4215-a544-477686a1ca4c)
 
-![Screenshot 2024-11-29 205848](https://github.com/user-attachments/assets/24287dd6-c860-4493-b1f6-dd2c55826a40)
 
 
 ## Overview
